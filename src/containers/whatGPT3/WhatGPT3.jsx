@@ -1,8 +1,10 @@
-import React from "react";
-import "./whatgpt3.css";
+import React from 'react'
+import "./whatGP3.css"
 
-function WhatGPT3() {
-  return <div>WhatGPT3</div>;
+function WhatGP3() {
+  return (
+    <div>WhatGP3</div>
+  )
 }
 
-export default WhatGPT3;
+export default WhatGP3

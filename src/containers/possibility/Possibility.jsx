@@ -1,8 +1,10 @@
-import React from "react";
-import "./possibility.css";
+import React from 'react'
+import "./possibility.css"
 
 function Possibility() {
-  return <div>Possibility</div>;
+  return (
+    <div>Possibility</div>
+  )
 }
 
-export default Possibility;
+export default Possibility
